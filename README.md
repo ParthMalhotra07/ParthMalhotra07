@@ -2,15 +2,15 @@
 
 ### A passionate developer
 
-- 🔭 I'm currently working on ** strengthening my foundation in Data Structures and Algorithms **
+- 🔭 I'm currently working on  strengthening my foundation in Data Structures and Algorithms 
 
-- 🌱 I'm currently learning **learning Mern Stack Development**
+- 🌱 I'm currently learning Mern Stack Development
 
 - 👯 I'm looking to collaborate on **Mern-Stack Projects **
 
 - 📫 How to reach me **parthmalhotra905@gmail.com**
 
-- ⚡ Fun fact **Hard work >>>>**
+- ⚡ Fun fact Consistency is the key to success
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
